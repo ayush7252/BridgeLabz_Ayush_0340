@@ -1,13 +1,7 @@
-let arr1 = [1,3,5,7,0,1]
+let arr1 = [1,3,5,7,0]
 let arr2 = [2,4,6,7,9,1]
 
-// let merge = []
-// merge = merge.concat(arr1 , arr2)
 
-// console.log(merge);
-// let mySet = new Set(merge)
-
-// console.log(mySet);
 const len = arr1.length + arr2.length;
 let merge = []
 
@@ -32,12 +26,8 @@ for(let i = 0;i<merge.length; i++){
 console.log(merge);
 let result = []
 for(let i=0;i<merge.length;i++){
-    if(merge[i] < merge[i+1]){
+    if(merge[i] == merge[i+1]){
         result.push(merge[i]);
     }
 }
 console.log(result);
-
-
-
-
