@@ -12,5 +12,7 @@ Topic Covered: 	a) Array Methods b) Find Duplicate in given Array
 Date: 10/12/2024
 Topic Covered : a) Practice Question on Arrays
 ----------------------------------------------------
- 
+Date: 11/12/2024
+Topic Covered : a) Array operations(Insertion, Deletion, Searching, Traversal, Sorting)
+----------------------------------------------------
 
