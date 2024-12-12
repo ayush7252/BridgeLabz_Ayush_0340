@@ -15,4 +15,6 @@ Topic Covered : a) Practice Question on Arrays
 Date: 11/12/2024
 Topic Covered : a) Array operations(Insertion, Deletion, Searching, Traversal, Sorting)
 ----------------------------------------------------
-
+Date: 12/12/2024
+Topic Covered : a) 20 Questions from JavaScript practice sheet
+----------------------------------------------------
