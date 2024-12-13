@@ -18,3 +18,6 @@ Topic Covered : a) Array operations(Insertion, Deletion, Searching, Traversal, S
 Date: 12/12/2024
 Topic Covered : a) 20 Questions from JavaScript practice sheet
 ----------------------------------------------------
+Date: 13/12/2024
+Topic Covered : a) 20 contd... from JavaScript practice sheet
+----------------------------------------------------
