@@ -21,3 +21,8 @@ Topic Covered : a) 20 Questions from JavaScript practice sheet
 Date: 13/12/2024
 Topic Covered : a) 20 contd... from JavaScript practice sheet
 ----------------------------------------------------
+Date: 16/12/2024
+Topic Covered : a) Completed JavaScript practice sheet
+----------------------------------------------------
+
+
