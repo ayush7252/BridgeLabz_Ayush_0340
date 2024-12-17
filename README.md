@@ -24,5 +24,8 @@ Topic Covered : a) 20 contd... from JavaScript practice sheet
 Date: 16/12/2024
 Topic Covered : a) Completed JavaScript practice sheet
 ----------------------------------------------------
+Date: 17/12/2024
+Topic Covered : a) Stack implementation using Array b) Queue implementation using Array
+----------------------------------------------------
 
 
