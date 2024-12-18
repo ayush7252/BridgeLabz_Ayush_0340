@@ -27,5 +27,5 @@ Topic Covered : a) Completed JavaScript practice sheet
 Date: 17/12/2024
 Topic Covered : a) Stack implementation using Array b) Queue implementation using Array
 ----------------------------------------------------
-
-
+Date: 18/12/2024
+Topic Covered : a) Linked List using class - Insert at end , insert at beg.. , insert at position, getSize
