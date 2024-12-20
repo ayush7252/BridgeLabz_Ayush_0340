@@ -32,3 +32,7 @@ Topic Covered : a) Linked List using class - Insert at end , insert at beg.. , i
 ----------------------------------------------------
 Date: 19/12/2024
 Topic Covered : a) Linked List using class - Delete at position, Delete by value
+----------------------------------------------------
+Date: 20/12/2024
+Topic Covered : a) Operations on Singly Linked List
+----------------------------------------------------
