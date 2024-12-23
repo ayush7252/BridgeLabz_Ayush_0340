@@ -36,3 +36,5 @@ Topic Covered : a) Linked List using class - Delete at position, Delete by value
 Date: 20/12/2024
 Topic Covered : a) Operations on Singly Linked List
 ----------------------------------------------------
+Date: 23/12/2024
+Topic Covered : a) Doubly Linked List b) Circular Linked List c) Questions On Linked List d) Binary Tree
