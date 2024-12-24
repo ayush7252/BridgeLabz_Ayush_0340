@@ -38,3 +38,6 @@ Topic Covered : a) Operations on Singly Linked List
 ----------------------------------------------------
 Date: 23/12/2024
 Topic Covered : a) Doubly Linked List b) Circular Linked List c) Questions On Linked List d) Binary Tree
+----------------------------------------------------
+Date: 24/12/2024
+Topic Covered : a) Binary Search Tree Implimentation b) Graph Implimentation c) Directed Graph Implimentation
