@@ -44,3 +44,7 @@ Topic Covered : a) Binary Search Tree Implimentation b) Graph Implimentation c) 
 ----------------------------------------------------
 Date: 26/12/2024
 Topic Covered : a)Weighted Graph Implimentation b) Dijkstra Algorithm Implimentation
+---------------------------------------------------
+Date: 06/01/2025
+Topic Covered : a) Vacation Assignment
+---------------------------------------------------
