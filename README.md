@@ -48,3 +48,6 @@ Topic Covered : a)Weighted Graph Implimentation b) Dijkstra Algorithm Implimenta
 Date: 06/01/2025
 Topic Covered : a) Vacation Assignment
 ---------------------------------------------------
+Date: 08/01/2025
+Topic Covered : a) Closures b) Prototypal Inheritance c) Generator Function d) Proxy Function e) Async Function f) Decorators
+---------------------------------------------------
