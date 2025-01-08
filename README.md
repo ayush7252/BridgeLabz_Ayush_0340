@@ -51,3 +51,5 @@ Topic Covered : a) Vacation Assignment
 Date: 07/01/2025
 Topic Covered : a) Closures b) Prototypal Inheritance c) Generator Function d) Proxy Function e) Async Function f) Decorators
 ---------------------------------------------------
+Date: 08/01/2025
+Topic Covered : a) Callback b)Promises Basics
