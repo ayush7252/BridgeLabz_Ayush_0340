@@ -53,3 +53,6 @@ Topic Covered : a) Closures b) Prototypal Inheritance c) Generator Function d) P
 ---------------------------------------------------
 Date: 08/01/2025
 Topic Covered : a) Callback b)Promises Basics
+---------------------------------------------------
+Date: 09/01/2025
+Topic Covered : a) Objects b) Classes c) Inheritance d) Getters and Setters e) Static Properties
