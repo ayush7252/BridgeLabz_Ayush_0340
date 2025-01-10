@@ -56,3 +56,6 @@ Topic Covered : a) Callback b)Promises Basics
 ---------------------------------------------------
 Date: 09/01/2025
 Topic Covered : a) Objects b) Classes c) Inheritance d) Getters and Setters e) Static Properties
+---------------------------------------------------
+Date: 10/01/2025
+Topic Covered : a) Optional chaining '?.' b) Object to primitive conversion c) Property flags and descriptors d) Prototypes 
