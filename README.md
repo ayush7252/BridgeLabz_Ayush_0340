@@ -59,3 +59,6 @@ Topic Covered : a) Objects b) Classes c) Inheritance d) Getters and Setters e) S
 ---------------------------------------------------
 Date: 10/01/2025
 Topic Covered : a) Optional chaining '?.' b) Object to primitive conversion c) Property flags and descriptors d) Prototypes 
+---------------------------------------------------
+Date: 14/01/2025
+Topic Covered : a) Async Iterator b) Getter and Setter c) Advance Promises d) Generator e) Custom Error
